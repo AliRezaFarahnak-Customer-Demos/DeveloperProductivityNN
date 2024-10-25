@@ -19,9 +19,10 @@ Provide a detailed summary of the video. The summary must include:
 ## Technical Requirements  
   
 - There should be a stopwatch from the main method until after the summary of the video, outputting the seconds or minutes it took to make the summary.  
-- GitHub CoPilot and GitHub Codespaces.  
+- Use of GitHub CoPilot and GitHub Codespaces.  
 - Allowed to use Codespaces with 16 cores and 64 GB RAM, no GPU.  
-- No cloud services allowed, but downloading and using models locally is permitted. You can use Hugging Face, Ollama, or any tools that help you use AI in offline mode on your localhost.  
+- No cloud services allowed, but downloading and using models locally is permitted. You can use Hugging Face, Ollama, or any tools that help you use AI in offline mode on your localhost.
+- At least 1 sample frame per second should be implemented in the algorithm
   
 ## Skills Required  
   
