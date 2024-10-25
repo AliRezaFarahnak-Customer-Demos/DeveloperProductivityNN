@@ -6,15 +6,19 @@ Microsoft's engineers developed a video indexer for a 15-second video, executing
 - No cloud services allowed, except for GitHub Codespaces.  
 - The solution should run on-premise in Linux offline mode.  
 - Use the most powerful CPU-only Codespaces machine.  
-- Leverage all your ML, coding, and AI skills for offline mode.  
+- Leverage all your ML, coding, and AI skills for offline mode.
+
+# Sample result from Microsoft product output
+In this 15-second video sequence, a dramatic nighttime scene unfolds. Initially, a man in a leather jacket is seen holding a gun in the middle of a street. This is followed by several shots of a car engulfed in flames, indicating a serious incident. The background shows buildings and lights, enhancing the nighttime setting. The scene then shifts back to the street, where the same man, now without the gun, dances and walks with his arms outstretched. He eventually holds a microphone, suggesting a transition from a tense to a more performative atmosphere.
   
 ## Success Criteria  
-  
-Provide a detailed summary of the video. The summary must include:  
-  
-- A man with a gun.  
-- Followed by a car explosion and fire.  
-- Ending with the man standing with arms stretched or dancing.  
+- **Performance**: Reduce processing time to under 50 seconds.  
+- **Accuracy**: The summary must accurately capture key events:  
+  - A man with a gun.  
+  - A car explosion and fire.  
+  - The man standing with arms stretched or dancing at the end.  
+- **Efficiency**: Process at least one frame per second.  
+
   
 ## Technical Requirements  
   
